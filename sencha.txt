@@ -1,0 +1,21 @@
+https://www.sencha.com/
+
+https://www.sencha.com/products/touch/ download sencha
+
+https://www.sencha.com/products/sencha-cmd/ download sencha-cmd
+
+COMMANDS:
+_____________________________________________________________________________________________
+sencha -sdk path/to/sencha/touch generate app Applicationname .
+
+sencha fs web -p 8888 start map Applicationname   // generat " http://localhost:8888 " Server 
+_____________________________________________________________________________________________
+open app.js  // working directory
+_____________________________________________________________________________________________
+
+
+unzipe sencha touch in xampp/htdocs
+open: xampp/htdocs/touch , open CMD
+
+sencha generate app appname path/to/app/dir  example: sencha generate app mobapp ../mobapp
+______________________________________________________________________________________________
