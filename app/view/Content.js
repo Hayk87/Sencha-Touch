@@ -1,0 +1,22 @@
+Ext.define('mobapp.view.Content',{
+	extend:'Ext.Panel',
+	xtype:'content',
+	config:{
+		scrollable:true,
+		title:'Content',
+		iconCls:'organize',
+		layout:'fit',
+		items:[
+			{
+				xtype:'titlebar',
+				docked:'top',
+				title:'Content'
+			},
+			{
+				xtype:'list',
+				store:'Content',
+				itemTpl:'{name} {surname}, {age} year'
+			}
+		]
+	}
+})

@@ -1,0 +1,19 @@
+Ext.define('mobapp.store.Content',{
+	extend:'Ext.data.Store',
+	model:'mobapp.model.Content',
+	/*data:[
+		{
+			name:'asd',
+			surname:'asdasd'
+		}
+	]*/
+	autoLoad:true,
+	proxy:{
+		type:'ajax',
+		url:'/app/store/users.json',
+		reader:{
+			type:'json',
+			//rootProperty:'result'
+		}
+	}
+})
