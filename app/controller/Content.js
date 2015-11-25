@@ -7,7 +7,7 @@ Ext.define('mobapp.controller.Content',{
 		control:{
 			'content list':{
 				itemtap:function(list,index,target,record){
-					console.log( 'user: '+record.get('name')+' '+record.get('surname') );
+					console.log( record.get('link') );
 				}
 			}
 		}

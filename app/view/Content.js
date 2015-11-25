@@ -3,6 +3,8 @@ Ext.define('mobapp.view.Content',{
 	xtype:'content',
 	config:{
 		scrollable:true,
+		styleHtmlContent:true,
+		styleHtmlCls:'xmlcontent',
 		title:'Content',
 		iconCls:'organize',
 		layout:'fit',
@@ -15,7 +17,7 @@ Ext.define('mobapp.view.Content',{
 			{
 				xtype:'list',
 				store:'Content',
-				itemTpl:'{name} {surname}, {age} year'
+				itemTpl:'<h1>{title}</h1> <div class="content">{description}</div> <div class="link"><a href="{link}" target="_blank">READ MORE</a></div> <hr>'
 			}
 		]
 	}

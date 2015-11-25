@@ -1,19 +1,16 @@
 Ext.define('mobapp.store.Content',{
 	extend:'Ext.data.Store',
 	model:'mobapp.model.Content',
-	/*data:[
-		{
-			name:'asd',
-			surname:'asdasd'
-		}
-	]*/
 	autoLoad:true,
 	proxy:{
 		type:'ajax',
-		url:'/app/store/users.json',
+		url:'/app/store/data.xml',
 		reader:{
-			type:'json',
+			type:'xml',
+			record:'item'
 			//rootProperty:'result'
 		}
 	}
 })
+
+//http://ria.ru/export/rss2/world/index.xml
