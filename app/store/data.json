@@ -1,0 +1,22 @@
+[
+	{
+		"title":"title1",
+		"link":"http://link.am/",
+		"description":"text1"
+	},
+	{
+		"title":"title2",
+		"link":"http://link.am/",
+		"description":"text2"
+	},
+	{
+		"title":"title3",
+		"link":"http://link.am/",
+		"description":"text3"
+	},
+	{
+		"title":"title4",
+		"link":"http://link.am/",
+		"description":"text4"
+	}
+]

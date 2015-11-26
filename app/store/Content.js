@@ -4,6 +4,7 @@ Ext.define('mobapp.store.Content',{
 	autoLoad:true,
 	proxy:{
 		type:'ajax',
+		method:'GET',
 		url:'/app/store/data.xml',
 		reader:{
 			type:'xml',
@@ -11,6 +12,6 @@ Ext.define('mobapp.store.Content',{
 			//rootProperty:'result'
 		}
 	}
-})
+});
 
 //http://ria.ru/export/rss2/world/index.xml

@@ -7,6 +7,11 @@ Ext.define('mobapp.view.Rss',{
 		iconCls:'search',
 		items:[
 			{
+				xtype:'titlebar',
+				docked:'top',
+				title:'RSS'
+			},
+			{
 				xtype:'fieldset',
 				title:'get RSS data',
 				items:[
