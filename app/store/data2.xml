@@ -1,0 +1,330 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rambler="http://news.rambler.ru" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" version="2.0">
+<channel>
+<title>Российское Информационное Агентство РИА Новости</title>
+<link>http://www.ria.ru</link>
+<description>
+Российское Информационное Агентство РИА Новости: достоверность и оперативность
+</description>
+<language>ru</language>
+<copyright>RIA Novosti</copyright>
+<item>
+<title>
+WWF: потепление в Арктике привело к массовой гибели моржей на Чукотке
+</title>
+<link>http://www.ria.ru/eco/20141009/1027614772.html</link>
+<guid>http://www.ria.ru/eco/20141009/1027614772.html</guid>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Thu, 09 Oct 2014 16:02:00 +0400</pubDate>
+<description>
+Из-за уменьшения площади льда в Арктике моржи в большом количестве выходят на берег, где образуют лежбища в каменистой местности или на высоких склонах.
+</description>
+<rian:type xmlns:rian="http://rian.ru">article</rian:type>
+<category>Экология</category>
+</item>
+<item>
+<title>
+Выдры спасались от жары и катались на водяных горках в японском зоопарке
+</title>
+<link>http://www.ria.ru/tv_eco/20140801/1018199365.html</link>
+<guid>http://www.ria.ru/tv_eco/20140801/1018199365.html</guid>
+<rian:related xmlns:rian="http://rian.ru">
+<rian:url>
+http://ria.ru/export/rss2/vl/20140305/998173843.xml
+</rian:url>
+<rian:url>
+http://ria.ru/export/rss2/eco_news/20130826/958754855.xml
+</rian:url>
+<rian:url>
+http://ria.ru/export/rss2/eco/20130820/957383308.xml
+</rian:url>
+</rian:related>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Fri, 01 Aug 2014 12:00:00 +0400</pubDate>
+<description>
+Выдры, живущие в японском городском зоопарке и ботаническом саду Итикавы, спасались от жары катанием на водяных горках. Смотрите на видео, как они резвились в вольере.
+</description>
+<rian:type xmlns:rian="http://rian.ru">video</rian:type>
+<category>Экология</category>
+<enclosure type="video/x-flv" url="http://nfw.video.ria.ru/flv/file.aspx?ID=45775657&type=flv" source_name="РИА Новости"/>
+<enclosure url="http://cdn13.img22.ria.ru/images/101820/01/1018200179.jpg" type="image/jpeg"/>
+</item>
+<item>
+<title>
+Столичный фестиваль Outline: электронная музыка и экосознательность
+</title>
+<link>http://www.ria.ru/culture/20140706/1014949541.html</link>
+<guid>http://www.ria.ru/culture/20140706/1014949541.html</guid>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Sun, 06 Jul 2014 23:38:00 +0400</pubDate>
+<description>
+Фестиваль прошел в Мнёвниковской пойме. Он начался в девять часов вечера в субботу и закончился поздно вечером в воскресенье.
+</description>
+<rian:type xmlns:rian="http://rian.ru">article</rian:type>
+<category>Культура</category>
+</item>
+<item>
+<title>
+Суд удовлетворил иск Росприроднадзора о взыскании с БЦБК 18,4 млн руб
+</title>
+<link>http://www.ria.ru/eco/20140421/1004756606.html</link>
+<guid>http://www.ria.ru/eco/20140421/1004756606.html</guid>
+<rian:related xmlns:rian="http://rian.ru">
+<rian:url>
+http://ria.ru/export/rss2/tourism/20140317/999822869.xml
+</rian:url>
+</rian:related>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Mon, 21 Apr 2014 07:30:00 +0400</pubDate>
+<description>
+Ведомство потребовало взыскать с комбината штраф в качестве платы за негативное воздействие на окружающую среду.
+</description>
+<rian:type xmlns:rian="http://rian.ru">article</rian:type>
+<category>Экология</category>
+<enclosure url="http://cdn15.img22.ria.ru/images/92928/72/929287211.jpg" type="image/jpeg" length="31762"/>
+</item>
+<item>
+<title>Вулкан в Индонезии выбросил пепел на высоту 7 км</title>
+<link>http://www.ria.ru/eco/20131231/987470036.html</link>
+<guid>http://www.ria.ru/eco/20131231/987470036.html</guid>
+<rian:related xmlns:rian="http://rian.ru">
+<rian:url>
+http://ria.ru/export/rss2/spravka/20130826/958101173.xml
+</rian:url>
+<rian:url>
+http://ria.ru/export/rss2/science_photo/20131128/980351284.xml
+</rian:url>
+</rian:related>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Tue, 31 Dec 2013 05:06:00 +0400</pubDate>
+<description>
+Из запретной зоны в радиусе пяти километров от кратера эвакуировали уже свыше 18 тысяч человек.
+</description>
+<rian:type xmlns:rian="http://rian.ru">article</rian:type>
+<category>Экология</category>
+</item>
+<item>
+<title>
+Землетрясение магнитудой 5,1 произошло на севере Индонезии
+</title>
+<link>http://www.ria.ru/eco/20131231/987470955.html</link>
+<guid>http://www.ria.ru/eco/20131231/987470955.html</guid>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Tue, 31 Dec 2013 04:28:00 +0400</pubDate>
+<description>
+Информация о разрушениях или жертвах пока не поступала.
+</description>
+<rian:type xmlns:rian="http://rian.ru">article</rian:type>
+<category>Экология</category>
+</item>
+<item>
+<title>Вулкан Этна на Сицилии вновь активизировался</title>
+<link>http://www.ria.ru/eco_news/20131230/987292762.html</link>
+<guid>http://www.ria.ru/eco_news/20131230/987292762.html</guid>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Mon, 30 Dec 2013 13:07:00 +0400</pubDate>
+<description>
+Эксперты отмечают, что в настоящий момент вулканическая активность Этны еще не достигла того уровня, при котором можно опасаться за безопасность жителей ближайших населенных пунктов.
+</description>
+<rian:type xmlns:rian="http://rian.ru">article</rian:type>
+<category>Новости</category>
+</item>
+<item>
+<title>
+Пару гиен привезли в московский зоопарк, их покажут в конце января
+</title>
+<link>http://www.ria.ru/eco_news/20131228/987054733.html</link>
+<guid>http://www.ria.ru/eco_news/20131228/987054733.html</guid>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Sat, 28 Dec 2013 23:44:00 +0400</pubDate>
+<description>
+Зоопарк более десяти лет искал возможность получить новую пару гиен, но это было не так просто, так как гиены редко размножаются в зоопарках.
+</description>
+<rian:type xmlns:rian="http://rian.ru">article</rian:type>
+<category>Новости</category>
+</item>
+<item>
+<title>
+Соловецкий архипелаг может стать заказником уже в сентябре 2014 года
+</title>
+<link>http://www.ria.ru/eco_news/20131227/986882519.html</link>
+<guid>http://www.ria.ru/eco_news/20131227/986882519.html</guid>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Fri, 27 Dec 2013 16:31:00 +0400</pubDate>
+<description>
+Планируется, что в границы заказника войдет вся территория архипелага с частью прибрежной морской территории, за исключением поселка Соловецкий. Кроме того, на согласовании находится вопрос об исключении из ООПТ территорий монастырских скитов.
+</description>
+<rian:type xmlns:rian="http://rian.ru">article</rian:type>
+<category>Новости</category>
+<enclosure url="http://cdn13.img22.ria.ru/images/71810/73/718107374.jpg" type="image/jpeg" length="13956"/>
+</item>
+<item>
+<title>
+Подарки для животных в зоопарках мира и другие звериные новости
+</title>
+<link>http://www.ria.ru/ecophoto/20131227/986584651.html</link>
+<guid>http://www.ria.ru/ecophoto/20131227/986584651.html</guid>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Fri, 27 Dec 2013 11:49:00 +0400</pubDate>
+<description>
+Рождественские подарки для животных в зоопарках мира - в фотоленте РИА Новости.
+</description>
+<rian:type xmlns:rian="http://rian.ru">photo</rian:type>
+<category>Фотоленты</category>
+</item>
+<item>
+<title>
+Эксперт: мораторий на вылов осетровых в Каспии де-факто уже заработал
+</title>
+<link>http://www.ria.ru/eco_news/20131225/986398076.html</link>
+<guid>http://www.ria.ru/eco_news/20131225/986398076.html</guid>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Wed, 25 Dec 2013 15:34:00 +0400</pubDate>
+<description>
+Все страны Прикаспия (РФ, Казахстан, Азербайджан, Туркменистан, Иран) установили внутренние ограничения на коммерческий лов осетровых.
+</description>
+<rian:type xmlns:rian="http://rian.ru">article</rian:type>
+<category>Новости</category>
+</item>
+<item>
+<title>
+Ученые оценят влияние нефтедобычи на Магаданский заповедник
+</title>
+<link>http://www.ria.ru/eco_news/20131224/986088875.html</link>
+<guid>http://www.ria.ru/eco_news/20131224/986088875.html</guid>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Tue, 24 Dec 2013 11:12:00 +0400</pubDate>
+<description>
+Это исследование ученые провели под руководством старшего научного сотрудника Института океанологии имени Ширшова РАН Василия Спиридонова. А средства на него заповедник получил по гранту от проекта ПРООН/ГЭФ и Минприроды РФ на изучение прибрежной зоны полуострова Кони.
+</description>
+<rian:type xmlns:rian="http://rian.ru">article</rian:type>
+<category>Новости</category>
+<enclosure url="http://cdn13.img22.ria.ru/images/93935/24/939352409.jpg" type="image/jpeg" length="21495"/>
+</item>
+<item>
+<title>
+Эксперт: питомники по разведению кабарги помогут спасти это животное
+</title>
+<link>http://www.ria.ru/eco_news/20131223/985865499.html</link>
+<guid>http://www.ria.ru/eco_news/20131223/985865499.html</guid>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Mon, 23 Dec 2013 12:43:00 +0400</pubDate>
+<description>
+Кабарга - самый маленький безрогий олень, населяющий леса Сибири и Дальнего Востока. Кабаргу также называют мускусным оленем из-за специальной железы у самцов, вырабатывающей мускус.
+</description>
+<rian:type xmlns:rian="http://rian.ru">article</rian:type>
+<category>Новости</category>
+</item>
+<item>
+<title>Климатический 2013 год в фотографиях</title>
+<link>http://www.ria.ru/ecophoto/20131223/984877011.html</link>
+<guid>http://www.ria.ru/ecophoto/20131223/984877011.html</guid>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Mon, 23 Dec 2013 10:30:00 +0400</pubDate>
+<description>
+Климатические итоги года - в фотоленте РИА Новости.
+</description>
+<rian:type xmlns:rian="http://rian.ru">photo</rian:type>
+<category>Фотоленты</category>
+</item>
+<item>
+<title>
+Как панда охотится за яблоками и другие звериные новости
+</title>
+<link>http://www.ria.ru/ecophoto/20131220/985132993.html</link>
+<guid>http://www.ria.ru/ecophoto/20131220/985132993.html</guid>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Fri, 20 Dec 2013 11:00:00 +0400</pubDate>
+<description>
+Гигантская панда, львята в зоопарке Сан-Диего и пингвины в костюмах Санта-Клауса - в фотоленте РИА Новости.
+</description>
+<rian:type xmlns:rian="http://rian.ru">photo</rian:type>
+<category>Фотоленты</category>
+</item>
+<item>
+<title>
+Рослесхоз: более 30 тысяч га леса в Подмосковье поражены вредителями
+</title>
+<link>http://www.ria.ru/eco_news/20131218/984863623.html</link>
+<guid>http://www.ria.ru/eco_news/20131218/984863623.html</guid>
+<rian:related xmlns:rian="http://rian.ru">
+<rian:url>
+http://ria.ru/export/rss2/eco/20130422/933930004.xml
+</rian:url>
+</rian:related>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Wed, 18 Dec 2013 12:31:00 +0400</pubDate>
+<description>
+По состоянию на 1 декабря 2013 года очаги вредителей в лесах РФ действуют на площади 146 тысяч гектаров, из них типограф — почти 90 тысяч гектаров. Это более 60% от общей площади очагов всех вредителей в стране.
+</description>
+<rian:type xmlns:rian="http://rian.ru">article</rian:type>
+<category>Новости</category>
+</item>
+<item>
+<title>
+Вулкан Шивелуч на Камчатке выбросил два пепловых столба на высоту 6 км
+</title>
+<link>http://www.ria.ru/eco_news/20131217/984572920.html</link>
+<guid>http://www.ria.ru/eco_news/20131217/984572920.html</guid>
+<rian:related xmlns:rian="http://rian.ru">
+<rian:url>
+http://ria.ru/export/rss2/spravka/20130826/958101173.xml
+</rian:url>
+</rian:related>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Tue, 17 Dec 2013 11:00:00 +0400</pubDate>
+<description>
+Пеплопадов в населенных пунктах пока не зафиксировали, но все туристические компании предупреждены об опасности.
+</description>
+<rian:type xmlns:rian="http://rian.ru">article</rian:type>
+<category>Новости</category>
+</item>
+<item>
+<title>
+Ученые Забайкалья планируют изучать болезни редких антилоп-дзеренов
+</title>
+<link>http://www.ria.ru/eco_news/20131213/983971638.html</link>
+<guid>http://www.ria.ru/eco_news/20131213/983971638.html</guid>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Fri, 13 Dec 2013 16:08:00 +0400</pubDate>
+<description>
+Ученые Даурского заповедника на юге Забайкальского края впервые применили метод дистанционного обездвиживания краснокнижной антилопы-дзерена из ружья, чтобы взять пробы крови.
+</description>
+<rian:type xmlns:rian="http://rian.ru">article</rian:type>
+<category>Новости</category>
+</item>
+<item>
+<title>
+Минприроды: ущерб от лесных пожаров в РФ в 2013 г уменьшился в 6 раз
+</title>
+<link>http://www.ria.ru/eco_news/20131213/983924582.html</link>
+<guid>http://www.ria.ru/eco_news/20131213/983924582.html</guid>
+<rian:related xmlns:rian="http://rian.ru">
+<rian:url>
+http://ria.ru/export/rss2/earth/20131115/977112193.xml
+</rian:url>
+</rian:related>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Fri, 13 Dec 2013 13:46:00 +0400</pubDate>
+<description>
+В 2013 году площадь лесных пожаров в России уменьшилась по сравнению с прошлым годом и составила 1,4 миллиона гектаров.
+</description>
+<rian:type xmlns:rian="http://rian.ru">article</rian:type>
+<category>Новости</category>
+<enclosure url="http://cdn13.img22.ria.ru/images/90892/97/908929779.jpg" type="image/jpeg" length="18652"/>
+</item>
+<item>
+<title>
+Власти переселят сов из Нью-Йорка, где они стали угрозой для самолетов
+</title>
+<link>http://www.ria.ru/eco_news/20131211/983337504.html</link>
+<guid>http://www.ria.ru/eco_news/20131211/983337504.html</guid>
+<rian:priority xmlns:rian="http://rian.ru">3</rian:priority>
+<pubDate>Wed, 11 Dec 2013 09:10:00 +0400</pubDate>
+<description>
+Полярные совы находятся в США под федеральной охраной, однако сотрудники аэропортов имеют право убивать их при возникновении риска для полетов воздушных судов.
+</description>
+<rian:type xmlns:rian="http://rian.ru">article</rian:type>
+<category>Новости</category>
+</item>
+</channel>
+</rss>

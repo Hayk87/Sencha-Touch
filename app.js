@@ -22,15 +22,15 @@ Ext.application({
     ],
 
     views: [
-        'Main','Home','Content','Rss'
+        'Main','Home','Content','Rss','Xmlreader','Carousel'
     ],
 
     models:[
-        'Content'
+        'Content','Xmlreader'
     ],
 
     stores:[
-        'Content'
+        'Content','Xmlreader'
     ],
 
     icon: {

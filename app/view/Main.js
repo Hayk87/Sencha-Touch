@@ -16,7 +16,13 @@ Ext.define('mobapp.view.Main', {
                 xtype:'content'
             },
             {
+                xtype:'xmlreader'
+            },
+            {
                 xtype:'rss'
+            },
+            {
+                xtype:'mycarousel'
             }
         ]
     }

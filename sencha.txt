@@ -18,4 +18,5 @@ unzipe sencha touch in xampp/htdocs
 open: xampp/htdocs/touch , open CMD
 
 sencha generate app appname path/to/app/dir  example: sencha generate app mobapp ../mobapp
+* create host: mobapp.dev
 ______________________________________________________________________________________________

@@ -1,0 +1,24 @@
+Ext.define('mobapp.view.Xmlreader',{
+	extend:'Ext.Panel',
+	xtype:'xmlreader',
+	config:{
+		iconCls:'action',
+		title:'xmlreader',
+		scrollable:true,
+		styleHtmlContent:true,
+		styleHtmlCls:'xmlreader',
+		layout:'fit',
+		items:[
+			{
+				xtype:'titlebar',
+				docked:'top',
+				title:'XMLREADER'
+			},
+			{
+				xtype:'list',
+				store:'Xmlreader',
+				itemTpl:'<h1>{description}</h1>'
+			}
+		]
+	}
+})

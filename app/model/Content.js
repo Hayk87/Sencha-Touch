@@ -3,4 +3,5 @@ Ext.define('mobapp.model.Content',{
 	config:{
 		fields:['title','link','description']
 	}
-})
+});
+

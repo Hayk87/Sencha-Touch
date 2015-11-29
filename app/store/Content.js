@@ -4,7 +4,7 @@ Ext.define('mobapp.store.Content',{
 	autoLoad:true,
 	proxy:{
 		type:'ajax',
-		url:'/mobapp/app/store/data.xml',
+		url:'/app/store/data.xml',
 		reader:{
 			type:'xml',
 			record:'item'
